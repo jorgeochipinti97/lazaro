@@ -6,7 +6,7 @@ const About = () => {
     <>
       <Layout>
         <div className="flex justify-center">
-          <Card title={'Our History'} text={'Lazaro was founded in 2022 by Jorge Ochipinti, a blockchain developer. He gave up his comfortable job in justice to get out of his comfort zone and set himself a new challenge, that of programming, the learning path applied was the following HTML, CSS, Javascript, NodeJS, React, NextJS and Solidity. He believes that blockchain technology is the future, therefore he didn t accept junior jobs and focused on learning to develop with Solidity.'} img={'/jorge.JPG'} className={''} />
+          <Card title={'Our History'} text={'Lazaro was founded in 2022 by Jorge Ochipinti, a blockchain developer. He gave up his comfortable job in justice to get out of his comfort zone and set himself a new challenge, that of programming, the learning path applied was the following HTML, CSS, Javascript, NodeJS, React, NextJS and Solidity. He believes that blockchain technology is the future, therefore he didn t accept junior jobs and focused on learning to develop with Solidity.'} img={'/jorge.JPG'} _width={958} _height={1280} />
         </div>
       </Layout>
     </>
